@@ -248,4 +248,7 @@ Quality Assurance Tester - responsible for website testing and quality assurance
 ------------------------------------------------------------------------------------------------------------
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic for initiative 1: Title: "Development of Interactive Learning Modules"](documentation/templates/theme/initiatives/epics/epic_template.md)
+2. [Epics for initiative 2: Titles: "Implement On-Page SEO" Description: Improve website's on-page SEO elements, such as meta descriptions, title tags, and header tags." "Integrate Google Analytics" Description: Install and configure Google Analytics to track website traffic and user behavior",](documentation/templates/theme/initiatives/epics/epic_template.md)
+3. [Epics for initiative 3: Titles: "Development of Interactive Learning Modules"](documentation/templates/theme/initiatives/epics/epic_template.md)
+4. [Epics for initiative 4: Titles: "User Interface Design", "Content Creation", "Course Management System Integration"](documentation/templates/theme/initiatives/epics/epic_template.md)
