@@ -14,7 +14,7 @@ Status: [Track the status of the task, such as "not started", "in progress", "bl
 
 Notes: [Include]
 
-# Task Title: [Develop Interactive Learning Modules]
+## Task Title: [Develop Interactive Learning Modules]
 
 User Story: [As a student, I want to have access to interactive learning modules to help me better understand the topics.]
 
