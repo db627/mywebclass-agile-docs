@@ -16,9 +16,6 @@ Business Value: [Specify the business value that will be delivered by the epic]
 
 Priority: [Assign a priority to the epic]
 
-# List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
-
 # Epics for Initiative 1:
 Title of the Epic: Development of Interactive Learning Modules
 
@@ -209,3 +206,6 @@ Estimated Effort: 400 hours
 Business Value: Improved user experience, improved course management and tracking
 
 Priority: Medium
+
+# List stories related to this theme
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
