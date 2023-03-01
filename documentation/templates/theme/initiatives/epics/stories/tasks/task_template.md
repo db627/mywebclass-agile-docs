@@ -12,4 +12,6 @@ Priority: [Indicate the relative priority of this task compared to other tasks i
 
 Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
 
+Tests: [each task needs some combination of manual and automated testing.]
+
 Notes: [Include]
