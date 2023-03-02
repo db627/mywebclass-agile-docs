@@ -29,13 +29,14 @@ By executing this plan, the project team can successfully create a MyWebClass.or
 
 ## Initiative(s)
 
-*  Basic Project Documentation and Project Management (initiatives/documentation_initiative.md)
-* DevOps (initiatives/initiative_devops.md)
-* MyWebClass.org base website template with all technical and legal requirements satisfied to use Google Analytics and be appropriately listed in a search engine by implementing the basic on page SEO requirements. (initiatives/initiative_webpage_template.md)
+*  Basic Project Documentation and Project Management (initiatives/Base Project Documentation and Management.md)
+* DevOps (initiatives/devops.md)
+* MyWebClass.org base website template with all technical and legal requirements satisfied to use Google Analytics and be appropriately listed in a search engine by implementing the basic on page SEO requirements. (initiatives/SEO Requirements.md)
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
   * Project metrics to continuously improve the management of the project
 
 ## Test plan
-How will this be tested?
+1. Create playwright test for all legal requirements
+2. Test that google analysitcs is tracking MyWebClass.org
