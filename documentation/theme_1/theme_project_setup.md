@@ -12,9 +12,9 @@ As a teacher at MyWebClass, I want to incorporate Agile methodologies in teachin
 >>>>>>> a938950eacb617661155a2a95ba15eabc839ded0
 
  1. Develop Initial Product Documentation and Design
-- Create an intuitive and user-friendly platform for students to learn modern software development technologies and processes.
-- Design a theme for all pages
-- Create a simple design shared across all the pages
+- Create an intuitive and user-friendly home page.
+- Design a theme for home pages
+- Create a simple design
 - Make sure the website follows proper SEO
 - Make sure website is to legal standard
 
