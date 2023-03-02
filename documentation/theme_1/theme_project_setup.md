@@ -13,10 +13,8 @@ As a student, I want to have access to hands-on learning opportunities in modern
 
  1. Develop Initial Product Documentation and Design
 - Create an intuitive and user-friendly platform for students to learn modern software development technologies and processes.
-- Implement realistic scenarios and case studies to provide hands-on experience for students.
-- Integrate business processes with technology to provide a holistic learning experience.
-- Provide support and resources to students to help them apply their learning to real-world problems.
-- Collaborate with industry experts and practitioners to ensure the platform is up-to-date and relevant.
+- Design a theme for all pages
+- Create a simple design shared across all the pages
 - Make sure the website follows proper SEO
 - Make sure website is to legal standard
 
@@ -35,7 +33,6 @@ As a student, I want to have access to hands-on learning opportunities in modern
 
 * [Develop initial product documentation and design](documentation/templates/theme/initiatives/initiative4.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](documentation/templates/theme/initiatives/initiative3.md)
-* [Create interacitve learning modules](documentation/templates/theme/initiatives/initiative1.md)
 * [Add SEO and Google Analytics Integration](documentation/templates/theme/initiatives/initiative2.md)
 
 ## Test plan
