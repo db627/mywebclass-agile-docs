@@ -6,7 +6,7 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 <<<<<<< HEAD
 
-As a student, I want to have access to hands-on learning opportunities in modern software development technologies and processes so that I can build practical skills that are applicable in real-world scenarios. By creating interactive learning experiences, we can create a platform that provides students with the tools and knowledge they need to succeed in their future careers. This will enable us to empower the next generation of software developers and technology professionals. By following Agile principles and methodologies, we can quickly and effectively develop and deliver high-quality course materials and resources, setting our students up for success in the long term.
+As a teacher at MyWebClass, I want to incorporate Agile methodologies in teaching modern software development technologies to provide students with a hands-on learning experience. By following Agile principles, we can quickly and effectively deliver project outcomes for our initiatives, which include creating a website that follows proper Search Engine Optimization and Google Analytics Integration, with a clean and simple design for ease of use, and implementing a CI/CD process to improve the workflow of development. This approach contextualizes technology with business processes, enabling our students to learn in a realistic and practical environment, preparing them for success in the tech industry.
 ## Initiative(s)
 =======
 >>>>>>> a938950eacb617661155a2a95ba15eabc839ded0
