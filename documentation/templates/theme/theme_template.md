@@ -3,7 +3,6 @@ As a student, I want to have access to hands-on learning opportunities in modern
 You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
 
 # List initiatives related to this theme
-1. [Interactive Learning Modules](documentation/templates/theme/initiatives/initiative_template.md)
-2. [Search Engine Optimization and Analytics Integration](documentation/templates/theme/initiatives/initiative_template.md)
-3. [CI/CD](documentation/templates/theme/initiatives/initiative_template.md)
-4. [Design and Creation of MyWebClass Website](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Search Engine Optimization and Analytics Integration](documentation/templates/theme/initiatives/initiative_template.md)
+2. [CI/CD](documentation/templates/theme/initiatives/initiative_template.md)
+3. [Design and Creation of MyWebClass Website](documentation/templates/theme/initiatives/initiative_template.md)
