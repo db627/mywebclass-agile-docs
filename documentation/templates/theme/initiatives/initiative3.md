@@ -28,17 +28,3 @@ Milestones:
 
 Constraints:
 - Technical limitations of the website platform
-
-Assumptions:
-T- eam members have basic knowledge of code version control and automated testing tools
-
-Risks:
-- Technical issues during implementation or deployment
-- Incomplete or inaccurate testing results
-
-Team:
-
-CI/CD Engineer: responsible for the implementation and maintenance of the CI/CD pipeline
-DevOps Engineer: responsible for the deployment and monitoring of the application in production environment
-Web Developer: responsible for the development of the website features and components
-Project Manager: responsible for overall project management and coordination.
