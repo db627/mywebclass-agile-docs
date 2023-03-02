@@ -8,19 +8,21 @@ us up for long-term success.
  1. Develop Initial Product Documentation and Design
 
 The product documentation and design for myWebClass.org have been developed based on the following objectives:
-- To provide an intuitive and user-friendly platform for students to learn modern software development technologies and processes.
-- To create realistic scenarios and case studies to provide hands-on experience for students.
-- To integrate business processes with technology to provide a holistic learning experience.
-- To provide support and resources to students to help them apply their learning to real-world problems.
-- To collaborate with industry experts and practitioners to ensure the platform is up-to-date and relevant.
+- Create an intuitive and user-friendly platform for students to learn modern software development technologies and processes.
+- Implement realistic scenarios and case studies to provide hands-on experience for students.
+- Integrate business processes with technology to provide a holistic learning experience.
+- Provide support and resources to students to help them apply their learning to real-world problems.
+- Collaborate with industry experts and practitioners to ensure the platform is up-to-date and relevant.
+- Make sure the website follows proper SEO
+- Make sure website is to legal standard
 
  2. Set up the CI/CD DevOps processes to ensure efficent and collabrotave development practices
 
 Continuous integration and continuous delivery (CI/CD) DevOps processes have been set up to ensure efficient and collaborative development practices. The following CI/CD practices are being followed:
-- Code is being integrated and built automatically with every change.
-- Automated testing is being conducted to ensure that the code is error-free and meets the quality standards.
-- Deployment is being done automatically to the staging and production environments.
-- A collaborative and agile development approach is being followed to ensure that the code is being developed efficiently and collaboratively.
+- Make sure code is being integrated and built automatically with every change.
+- Implement automated testing to ensure that the code is error-free and meets the quality standards.
+- Make sure deployment automatically to the staging and production environments.
+- Create a collaborative and agile development approach to ensure that the code is being developed efficiently and collaboratively.
 
 
  3. Create interactive learning modules
@@ -31,9 +33,9 @@ Interactive learning modules have been created to provide hands-on experience fo
 
 SEO and Google Analytics integration/tracking have been added to the website to ensure that the website is easily discoverable and the user behavior is being tracked. The following SEO and Google Analytics practices are being followed:
 
-- The website is being optimized for search engines with relevant keywords, meta descriptions, and title tags.
-- Google Analytics has been integrated to track the user behavior and identify areas for improvement.
-- A data-driven approach is being followed to optimize the website and improve the user experience.
+- Make sure the website is being optimized for search engines with relevant keywords, meta descriptions, and title tags.
+- Implement google Analytics to track the user behavior and identify areas for improvement.
+- Use a data-driven approach to optimize the website and improve the user experience.
 
 ## Initiative(s)
 
