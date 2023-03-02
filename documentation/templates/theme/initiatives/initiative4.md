@@ -15,19 +15,15 @@ Integration of the CICD initiatives.
 Deployment and maintenance of the website.
 
 Outcomes:
-A user-friendly home page
-Increased website traffic and user engagement through proper SEO and Google Analytics implementation.
-High-quality website performance and security.
+- A user-friendly home page
+- Increased website traffic and user engagement through proper SEO and Google Analytics implementation.
+- High-quality website performance and security.
 
 Deliverables:
 
-Fully functional home page
-
-Properly implemented SEO and Google Analytics.
-
-Integrated interactive learning modules and CICD initiatives.
-
-Documentation and training materials for website maintenance.
+- Fully functional home page
+- Properly implemented SEO and Google Analytics.
+- Integrated CICD initiatives.
 
 Milestones:
 - Completion of website design of home page and front-end development 
