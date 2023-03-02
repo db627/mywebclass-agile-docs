@@ -4,6 +4,7 @@ Our objective is to establish a highly visible web presence using lean and agile
 develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
 solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
 us up for long-term success.
+
 ## Initiative(s)
 
 * [Develop initial product documentation and design](documentation/templates/theme/initiatives/initiative4.md)
@@ -13,3 +14,7 @@ us up for long-term success.
 
 ## Test plan
 How will this be tested?
+ 1. Develop tests in playright to automate website functionailiy
+ 2. Develop tests in playright to check for SEO
+ 3. Manually test google analytics by tracking users over a 24 hour period
+ 4. Develop tests in playright to automate CI/CD
