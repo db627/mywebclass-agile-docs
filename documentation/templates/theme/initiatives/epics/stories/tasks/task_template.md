@@ -14,51 +14,6 @@ Status: [Track the status of the task, such as "not started", "in progress", "bl
 
 Notes: [Include]
 
-## Task Title: [Develop Interactive Learning Modules]
-
-User Story: [As a student, I want to have access to interactive learning modules to help me better understand the topics.]
-
-Description: [Develop interactive learning modules with interactive quizzes, multimedia content, and interactive elements that engage students and help them better understand the topics. The modules should be easily accessible from the course page and should meet the acceptance criteria.]
-
-Acceptance Criteria:
-[Interactive elements such as quizzes, multimedia content, and interactive simulations are included in the modules.
-Modules are easily accessible from the course page.
-Modules have clear learning objectives and outcomes.
-Modules are engaging and effective in improving understanding of the topic.
-Modules meet web accessibility standards.]
-
-Effort Estimate: [20 hours]
-
-Assigned To: [Content Developer]
-
-Priority: [High]
-
-Status: [In progress]
-
-Notes:[]
-
-## Task Title: [Create Interactive Module Creation Tool]
-
-User Story: [As a teacher, I want to have the ability to create interactive learning modules to better engage my students.
-Description: Develop a tool that enables teachers to create interactive learning modules. The tool should allow teachers to create multimedia content, interactive quizzes, and other interactive elements. The tool should meet the acceptance criteria.]
-
-Acceptance Criteria:
-[The tool should allow teachers to create interactive quizzes, multimedia content, and interactive simulations.
-The tool should be easy to use and intuitive.
-The tool should allow teachers to track student progress and engagement.
-The tool should allow teachers to easily update and modify modules.
-The tool should meet web accessibility standards.]
-
-Effort Estimate: [30 hours]
-
-Assigned To: [Developer]
-
-Priority: [High]
-
-Status: [Not started]
-
-Notes: []
-
 ## Task Title: [Develop Usage Tracking and Management System]
 
 User Story: [As a platform administrator, I want to have the ability to manage and track the usage of interactive learning modules.]
