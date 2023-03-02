@@ -26,40 +26,37 @@ Fully functional website with a modern user interface.
 Properly implemented SEO and Google Analytics.
 
 Integrated interactive learning modules and CICD initiatives.
-Documentation and training materials for website maintenance.
-Milestones:
 
-Completion of website design and front-end development - 4 weeks.
-Completion of website back-end development - 4 weeks.
-Implementation of proper SEO and Google Analytics - 2 weeks.
-Integration of interactive learning modules and CICD initiatives - 3 weeks.
-Website deployment and maintenance training - 1 week.
+Documentation and training materials for website maintenance.
+
+Milestones:
+- Completion of website design and front-end development 
+- Implementation of proper SEO and Google Analytics
+- Integration of interactive learning modules and CICD initiatives
+- Website deployment
+
 Constraints:
 
-Limited budget for website development.
-Limited availability of team members due to other projects.
-Tight project timeline due to the need for a timely website launch.
-Assumptions:
+- Limited availability of team members
+- Tight project timeline due to the need for a timely website launch.
 
-Team members have the necessary skills and expertise to complete the project.
-The availability of required resources and tools.
-No major changes to project requirements.
+Assumptions:
+- Team members have the necessary skills and expertise to complete the project.
+- The availability of required resources and tools.
+- No major changes to project requirements.
+
 Risks and Mitigation Strategies:
 
-Delay in project timeline due to team member unavailability - assign additional resources or adjust project timeline accordingly.
-Website performance and security issues - conduct regular testing and security audits to ensure high-quality performance and security.
-Inadequate user engagement - conduct user testing and feedback gathering to improve user experience.
-Dependencies:
-
-Interactive learning modules initiative - integration of the modules into the website.
-CICD initiative - integration of proper CICD processes into website development.
+- Delay in project timeline due to team member unavailability - assign additional resources or adjust project timeline accordingly.
+- Website performance and security issues - conduct regular testing and security audits to ensure high-quality performance and security.
+- Inadequate user engagement - conduct user testing and feedback gathering to improve user experience.
+Dependencies: 
+- CICD initiative - integration of proper CICD processes into website development.
 Team:
-
-Project Manager - responsible for overall project management and team coordination.
-Web Designer - responsible for website design and front-end development.
-Back-end Developer - responsible for website back-end development.
-SEO and Google Analytics Specialist - responsible for proper implementation of SEO and Google Analytics.
-Quality Assurance Tester - responsible for website testing and quality assurance.
+- Project Manager - responsible for overall project management and team coordination.
+- Web Designer - responsible for website design and front-end development.
+- SEO and Google Analytics Specialist - responsible for proper implementation of SEO and Google Analytics.
+= Quality Assurance Tester - responsible for website testing and quality assurance.
 
 ------------------------------------------------------------------------------------------------------------
 
