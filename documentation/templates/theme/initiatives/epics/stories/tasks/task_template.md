@@ -137,41 +137,6 @@ Status: [Not started]
 
 Notes: [The website owner will provide access to relevant data sources, such as advertising accounts and e-commerce platforms.]
 
-## Task Title:[ Create Interactive Learning Modules]
-
-User Story: [As a student, I want to have access to interactive learning modules to help me better understand the topics.]
-
-User Story: [As a teacher, I want to have the ability to create interactive learning modules to better engage my students.]
-
-User Story:[ As a platform administrator, I want to have the ability to manage and track the usage of interactive learning modules.]
-
-Description: [Develop a system for creating, managing, and tracking interactive learning modules. The system should allow teachers to easily create and customize modules, students to easily access and complete modules, and administrators to track usage and performance.]
-
-Effort Estimate: [60 hours]
-
-Assigned To:[ Development Team]
-
-Priority:[ High]
-
-Status: [In progress]
-
-Notes: This is a major development effort that will require input from all stakeholders, including teachers, students, and administrators. The development team will work closely with these stakeholders to ensure that the system meets their needs.
-
-## Task Title: Improve Course Search Functionality
-
-User Story: As a user, I want to be able to easily find the course I'm looking for
-
-Description: The task involves improving the search functionality of the website by implementing filters and sorting options. Acceptance criteria include the ability to filter courses by keyword, price, duration, and other relevant criteria. The task also requires testing the search functionality to ensure that it works as expected.
-
-Effort Estimate: 5 points
-
-Assigned To: Developer
-
-Priority: High
-
-Status: Not Started
-
-Notes:
 
 ## Task Title: Improve Website Navigation
 
@@ -210,10 +175,8 @@ Notes:
 User Story: As a user, I want to be able to find informative content about the courses and programs offered by MyWebClass
 Description: The task involves improving the content pages on the website to make them more informative and engaging. The task includes conducting research to identify the types of content users are interested in, creating new content or improving existing content, and testing the content pages to ensure that they meet user needs.
 
-Effort Estimate: 12 points
 
-Assigned To: Content Specialist
-
+Assigned To: Web Developer
 Priority: High
 
 Status: In Progress
@@ -226,78 +189,12 @@ User Story: As a user, I want to be able to easily navigate to different types o
 
 Description: The task involves redesigning the website's content navigation to make it more user-friendly and intuitive. The task includes conducting user research to identify areas for improvement, designing and implementing the new navigation menu, and testing the new menu to ensure that it meets user needs.
 
-Effort Estimate: 8 points
-
-Assigned To: Designer
+Assigned To: Web Developer
 
 Priority: High
 
 Status: Not Started
 
 Notes: 
-
-## Task Title: Add Social Sharing Functionality
-
-User Story: As a user, I want to be able to share interesting content with others
-
-Description: The task involves adding social sharing functionality to the website's content pages. Acceptance criteria include ensuring that users can easily share content on social media platforms such as Facebook, Twitter, and LinkedIn.
-
-Effort Estimate: 3 points
-
-Assigned To: Developer
-
-Priority: Medium
-
-Status: Not Started
-
-Notes:
-
-## Task Title: Improve Course Registration Process
-
-User Story: As a user, I want to be able to easily register for courses on the MyWebClass website
-
-Description: The task involves improving the course registration process to make it more user-friendly and intuitive. The task includes conducting user research to identify areas for improvement, designing and implementing the new registration process, and testing the new process to ensure that it meets user needs.
-Effort Estimate: 10 points
-
-Assigned To: Developer
-
-Priority: High
-
-Status: In Progress
-
-Notes:
-
-## Task Title: Add Payment Gateway Integration
-
-User Story: As a user, I want to be able to easily manage my course registrations and payments
-
-Description: Implement a payment gateway integration that allows users to pay for courses and manage their payments. Acceptance criteria include that the payment process is smooth and easy to use, that users can view their payment history and manage their payment methods, and that the system integrates with the course registration process. Dependencies include having access to a reliable payment gateway provider and coordinating with the backend team to ensure proper integration.
-
-Effort Estimate: 8 points
-
-Assigned To: Frontend Developer
-
-Priority: High
-
-Status: In Progress
-
-Notes: The payment gateway integration will also need to be accessible to the administrator for tracking and managing course registrations and payments.
-
-## Task Title: Add Payment Tracking Functionality
-
-User Story: As an administrator, I want to be able to easily track and manage course registrations and payments
-
-Description: Develop a feature that allows administrators to track course registrations and payments. Acceptance criteria include that administrators can view a list of all course registrations and their corresponding payments, filter and search through the list, and export the data to a spreadsheet. Dependencies include having access to the necessary data and coordinating with the backend team to ensure proper integration.
-
-Effort Estimate: 5 points
-
-Assigned To: Backend Developer
-
-Priority: Medium
-
-Status: Not Started
-
-Notes: The payment tracking functionality should be integrated with the payment gateway integration developed for users.
-
 
 
