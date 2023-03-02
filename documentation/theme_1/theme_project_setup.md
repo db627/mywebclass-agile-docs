@@ -4,17 +4,43 @@ Our objective is to establish a highly visible web presence using lean and agile
 develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
 solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
 us up for long-term success.
+<<<<<<< HEAD
 
 As a student, I want to have access to hands-on learning opportunities in modern software development technologies and processes so that I can build practical skills that are applicable in real-world scenarios. By creating interactive learning experiences, we can create a platform that provides students with the tools and knowledge they need to succeed in their future careers. This will enable us to empower the next generation of software developers and technology professionals. By following Agile principles and methodologies, we can quickly and effectively develop and deliver high-quality course materials and resources, setting our students up for success in the long term.
 ## Initiative(s)
+=======
+>>>>>>> a938950eacb617661155a2a95ba15eabc839ded0
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+ 1. Develop Initial Product Documentation and Design
+- Create an intuitive and user-friendly platform for students to learn modern software development technologies and processes.
+- Implement realistic scenarios and case studies to provide hands-on experience for students.
+- Integrate business processes with technology to provide a holistic learning experience.
+- Provide support and resources to students to help them apply their learning to real-world problems.
+- Collaborate with industry experts and practitioners to ensure the platform is up-to-date and relevant.
+- Make sure the website follows proper SEO
+- Make sure website is to legal standard
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+ 2. Set up the CI/CD DevOps processes to ensure efficent and collabrotave development practices
+- Make sure code is being integrated and built automatically with every change.
+- Implement automated testing to ensure that the code is error-free and meets the quality standards.
+- Make sure deployment automatically to the staging and production environments.
+- Create a collaborative and agile development approach to ensure that the code is being developed efficiently and collaboratively.
+
+ 4. Add SEO and Google Analytics Integration/Tracking
+- Make sure the website is being optimized for search engines with relevant keywords, meta descriptions, and title tags.
+- Implement google Analytics to track the user behavior and identify areas for improvement.
+- Use a data-driven approach to optimize the website and improve the user experience.
+
+## Initiative(s)
+
+* [Develop initial product documentation and design](documentation/templates/theme/initiatives/initiative4.md)
+* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](documentation/templates/theme/initiatives/initiative3.md)
+* [Create interacitve learning modules](documentation/templates/theme/initiatives/initiative1.md)
+* [Add SEO and Google Analytics Integration](documentation/templates/theme/initiatives/initiative2.md)
 
 ## Test plan
 How will this be tested?
+ 1. Develop tests in playright to automate website functionailiy
+ 2. Develop tests in playright to check for SEO
+ 3. Manually test google analytics by tracking users over a 24 hour period
+ 4. Develop tests in playright to automate CI/CD
