@@ -1,4 +1,4 @@
-#Task Title: Implement Basic On-Page SEO for Website Template
+# Task Title: Implement Basic On-Page SEO for Website Template
 
 
 User Story: As a website owner, I want to have a website template that implements basic on-page SEO requirements, so that my website can be appropriately listed in search engines.
