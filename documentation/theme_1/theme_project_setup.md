@@ -28,7 +28,7 @@ MyWebClass.org base website template with all technical and legal requirements s
 By executing this plan, the project team can successfully create a MyWebClass.org website template that meets all technical and legal requirements to use Google Analytics and can be appropriately listed in search engines. The DevOps process ensures that the project is efficiently managed and that the website is continuously delivered with high quality and stability.
 
 ## Initiative(s)
-
+https://github.com/PaulWojtowicz/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/SEO%20Requirements.md
 *  Basic Project Documentation and Project Management (initiatives/Base Project Documentation and Management.md)
 * DevOps (initiatives/devops.md)
 * MyWebClass.org base website template with all technical and legal requirements satisfied to use Google Analytics and be appropriately listed in a search engine by implementing the basic on page SEO requirements. (initiatives/SEO Requirements.md)
