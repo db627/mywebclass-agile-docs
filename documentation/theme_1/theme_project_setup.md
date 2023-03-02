@@ -5,6 +5,11 @@ develop a strong foundation for our web project. By completing the initiatives o
 solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
 us up for long-term success.
 
+ 1. Develop Initial Product Documentation and Design
+ 2. Set up the CI/CD DevOps processes to ensure efficent and collabrotave development practices
+ 3. Create interactive learning modules
+ 4. Add SEO and Google Analytics Integration/Tracking
+
 ## Initiative(s)
 
 * [Develop initial product documentation and design](documentation/templates/theme/initiatives/initiative4.md)
