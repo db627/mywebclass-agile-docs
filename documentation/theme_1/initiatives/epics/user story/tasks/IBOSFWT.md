@@ -1,8 +1,7 @@
-#Task Title: Implement Basic On-Page SEO for Website Template 
+#Task Title: Implement Basic On-Page SEO for Website Template
 
 
-
-User Story: User Story 2: As a website owner, I want to have a website template that implements basic on-page SEO requirements, so that my website can be appropriately listed in search engines.
+User Story: As a website owner, I want to have a website template that implements basic on-page SEO requirements, so that my website can be appropriately listed in search engines.
 
 
 Description: The task is to update the website template to include on-page SEO elements such as title tags, description tags, header tags, URL structure, and canonical tags. The task also includes researching and identifying the target keywords for the website and optimizing the on-page elements for those keywords. The acceptance criteria for this task are:
@@ -14,17 +13,14 @@ The task also depends on the completion of Task 1 (Google Analytics Integration)
 
 Effort Estimate: 8 hours
 
-
 Assigned To: SEO Specialist
-
 
 Priority: High
 
-
 Status: Not Started
 
-
 Tests:
-1. Automated on-page SEO checks (e.g. Screaming Frog, Moz)
-2. Manual review of the website template to ensure all on-page elements are optimized for the target keywords
+Automated on-page SEO checks (e.g. Screaming Frog, Moz)
+Manual review of the website template to ensure all on-page elements are optimized for the target keywords
 Notes: The SEO specialist should work closely with the website owner to identify the target keywords and ensure that the website template is optimized to improve search engine ranking.
+
