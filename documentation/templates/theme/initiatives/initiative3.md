@@ -20,8 +20,6 @@ Outcomes:
 Deliverables:
 - Implementation of a code version control system (e.g. Git)
 - Integration of automated testing tools 
-- Deployment pipeline automation using containerization (e.g. Docker)
-- Regular reporting and analysis of pipeline performance
 
 Milestones:
 - Code version control implementation 
