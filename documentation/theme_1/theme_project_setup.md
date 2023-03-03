@@ -38,6 +38,19 @@ MyWebClass.org base website template with all technical and legal requirements s
 
 -Implement basic on-page SEO requirements to ensure the website can be appropriately listed in search engines.
 
+-SEO Requirements:
+Optimized title tags and meta descriptions: These HTML elements provide a concise summary of the page's content, which helps search engines and users understand what the page is about. Optimizing them can improve click-through rates and relevance signals for search engine ranking.
+
+Proper header hierarchy: Using header tags (H1, H2, H3, etc.) correctly can help search engines and users understand the structure and hierarchy of the content on the page. This can improve readability and relevance signals for search engine ranking.
+
+Descriptive and unique URLs: URLs that reflect the content of the page can improve user experience and help search engines understand what the page is about. Including relevant keywords in the URL can also provide additional relevance signals for search engine ranking.
+
+Image optimization: Optimizing images with descriptive file names, alt tags, and proper sizes can improve page load times, user experience, and relevance signals for search engine ranking.
+
+Mobile responsiveness: With the increasing use of mobile devices, it is crucial to ensure that the website template is mobile-friendly and responsive. This can improve user experience and provide additional relevance signals for search engine ranking.
+
+Implementing these basic on-page SEO requirements can help improve the visibility, relevance, and user experience of MyWebClass.org website template, which can lead to increased traffic and engagement from search engine users.
+
 -Test the website template thoroughly to ensure it meets the defined requirements and is user-friendly.
 
 -Launch the initial 0.1.0 release of the website template and continue to iterate based on user feedback and data insights gathered through Google Analytics.
