@@ -17,6 +17,7 @@ As a teacher at MyWebClass, I want to incorporate Agile methodologies in teachin
 - Create a simple design
 - Make sure the website follows proper SEO
 - Make sure website is to legal standard
+- Follow a LEAN Agile method focusing on accomplishing tasks in order quickly and efficiently 
 
  2. Set up the CI/CD DevOps processes to ensure efficent and collabrotave development practices
 - Make sure code is being integrated and built automatically with every change.
