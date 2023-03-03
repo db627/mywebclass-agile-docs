@@ -24,20 +24,15 @@ As a teacher at MyWebClass, I want to incorporate Agile methodologies in teachin
 - Implement automated testing to ensure that the code is error-free and meets the quality standards.
 - Make sure deployment automatically to the staging and production environments.
 - Create a collaborative and agile development approach to ensure that the code is being developed efficiently and collaboratively.
-- Use playwright to test the home page, privacy policy, and navigation.
-- Test SEO by checking if all headers, navigation, and etc have proper keywords
-- Test Google Analytics using playwright by checking if an event is triggered when page is opened
-- Test Home Page by checking if key homepage headers are present
 
  4. Add SEO and Google Analytics Integration/Tracking
 - Make sure the website is being optimized for search engines with relevant keywords, meta descriptions, and title tags.
 - Implement google Analytics to track the user behavior and identify areas for improvement.
 - Use a data-driven approach to optimize the website and improve the user experience.
 - Measure amount of visiters that visit our site
-- Optimize website content with targeted keywords, including the homepage, landing pages, and blog articles.
+- Optimize website content with targeted keywords
 - Create compelling meta descriptions and title tags that accurately describe the content on each page and include relevant keywords.
 - Improve website speed and mobile responsiveness for a better user experience.
-- Optimize images and videos with relevant alt tags and descriptions.
 - Set up Google Analytics to track website traffic, user behavior, and conversions.
 
 ## Initiative(s)
@@ -51,4 +46,8 @@ How will this be tested?
  1. Develop tests in playright to automate website functionailiy
  2. Develop tests in playright to check for SEO
  3. Manually test google analytics by tracking users over a 24 hour period
- 4. Develop tests in playright to automate CI/CD
+ 4. Develop tests in playright to automate CI/CD 
+5. Use playwright to test the home page, privacy policy, and navigation.
+   - Test SEO by checking if all headers, navigation, and etc have proper keywords
+   - Test Google Analytics using playwright by checking if an event is triggered when page is opened
+   - Test Home Page by checking if key homepage headers are present
