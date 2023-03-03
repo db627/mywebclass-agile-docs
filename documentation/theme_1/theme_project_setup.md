@@ -24,6 +24,10 @@ As a teacher at MyWebClass, I want to incorporate Agile methodologies in teachin
 - Implement automated testing to ensure that the code is error-free and meets the quality standards.
 - Make sure deployment automatically to the staging and production environments.
 - Create a collaborative and agile development approach to ensure that the code is being developed efficiently and collaboratively.
+- Use playwright to test the home page, privacy policy, and navigation.
+- Test SEO by checking if all headers, navigation, and etc have proper keywords
+- Test Google Analytics using playwright by checking if an event is triggered when page is opened
+- Test Home Page by checking if key homepage headers are present
 
  4. Add SEO and Google Analytics Integration/Tracking
 - Make sure the website is being optimized for search engines with relevant keywords, meta descriptions, and title tags.
