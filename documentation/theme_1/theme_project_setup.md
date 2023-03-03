@@ -114,5 +114,11 @@ Monitor Risks: Throughout the project lifecycle, the project team will continual
   * Project metrics to continuously improve the management of the project
 
 ## Test plan
-1. Create playwright test for all legal requirements
-2. Test that google analysitcs is tracking MyWebClass.org
+Create a playwright test for all legal requirements:
+The development team can create automated tests using playwright to ensure that the website template meets all legal requirements, such as GDPR compliance, accessibility, and copyright infringement.
+The team can write test cases for each requirement and execute the tests to ensure that the website passes all legal compliance requirements.
+Test that Google Analytics is tracking MyWebClass.org:
+The development team can create a test case to verify that Google Analytics is properly tracking user behavior on the website.
+The team can create a unique event or pageview in Google Analytics and ensure that it is being tracked when a user interacts with the website.
+The team can also verify that Google Analytics is properly configured and implemented on the website by checking the analytics code and tracking tags.
+Once the tests are created, they can be executed using an automated testing tool such as Selenium or by manually running the tests on different browsers and devices. The results of the tests can be recorded and analyzed to identify any issues or bugs in the website template or analytics implementation. Any issues or bugs that are identified can be fixed by the development team, and the tests can be re-executed to ensure that the issues have been resolved. The process of testing and fixing issues can be repeated until the website template meets all defined requirements and is ready for launch.
