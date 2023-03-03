@@ -24,6 +24,7 @@ As a teacher at MyWebClass, I want to incorporate Agile methodologies in teachin
 - Implement automated testing to ensure that the code is error-free and meets the quality standards.
 - Make sure deployment automatically to the staging and production environments.
 - Create a collaborative and agile development approach to ensure that the code is being developed efficiently and collaboratively.
+- Use tools such as GitHub actions and github for CI/CD
 
  4. Add SEO and Google Analytics Integration/Tracking
 - Make sure the website is being optimized for search engines with relevant keywords, meta descriptions, and title tags.
