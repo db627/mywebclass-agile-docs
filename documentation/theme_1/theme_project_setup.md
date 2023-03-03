@@ -29,6 +29,12 @@ As a teacher at MyWebClass, I want to incorporate Agile methodologies in teachin
 - Make sure the website is being optimized for search engines with relevant keywords, meta descriptions, and title tags.
 - Implement google Analytics to track the user behavior and identify areas for improvement.
 - Use a data-driven approach to optimize the website and improve the user experience.
+- Measure amount of visiters that visit our site
+- Optimize website content with targeted keywords, including the homepage, landing pages, and blog articles.
+- Create compelling meta descriptions and title tags that accurately describe the content on each page and include relevant keywords.
+- Improve website speed and mobile responsiveness for a better user experience.
+- Optimize images and videos with relevant alt tags and descriptions.
+- Set up Google Analytics to track website traffic, user behavior, and conversions.
 
 ## Initiative(s)
 
