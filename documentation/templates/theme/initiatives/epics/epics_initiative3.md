@@ -1,21 +1,21 @@
-## Epic number 3
-Title of the Epic: Home Page Interface Design and Documentation
+Title of the Epic: Implementation of CI/CD Pipeline for mywebclass Home Page
 
-Description: Develop a user-friendly interface for the MyWebClass home page
+Description: This epic involves implementing a continuous integration and continuous delivery (CI/CD) pipeline for the mywebclass home page. The pipeline will automate the build, testing, and deployment processes to ensure that the website is always up-to-date and meets quality standards.
 
 Goals:
 
-Create an interface that aligns with the MyWebClass brand and messaging Ensure that the interface is intuitive and easy to use for all types of users User Stories:
+- Automate the build, testing, and deployment processes for the mywebclass home page.
+- Ensure that changes to the website are thoroughly tested before they are deployed.
+- Increase the speed and efficiency of website updates and deployments.
+- Improve the quality and reliability of the website.
+User Stories:
 
-As a user, I want to easily navigate through the website using the navigation
-
-As a user, I want to be able to easily navigate between different sections of the home page
-
-As a user, I want to see a minimal and clean home page
+- As a developer, I want to set up a CI/CD pipeline for the mywebclass home page so that I can automate the build, testing, and deployment processes.
+- As a tester, I want to define test cases and create automated tests so that I can ensure that the website meets quality standards before it is deployed.
+- As a DevOps engineer, I want to configure the CI/CD pipeline to ensure that the website is deployed to the correct environment and that the deployment is monitored for issues.
 
 Dependencies:
 
-Availability of design resources Availability of development resources Risks:
-
-User interface design may not align with user needs Design resources may not be available Estimated Effort: 200 hoursn
-
+Availability of CI/CD tools that integrate with our tech stack.
+Availability of resources with expertise in setting up and configuring a CI/CD pipeline.
+Completion of the home page development and documentation epic.
