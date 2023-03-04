@@ -154,47 +154,4 @@ Status: In Progress
 
 Notes:
 
-## Task Title: Create User Dashboard
-
-User Story: As a user, I want to be able to access my account information easily
-
-Description: The task involves designing and implementing a user dashboard that allows users to view their account information, course registrations, and payments. Acceptance criteria include ensuring that the dashboard is easy to navigate and that users can quickly access the information they need.
-
-Effort Estimate: 10 points
-
-Assigned To: Developer
-
-Priority: High
-
-Status: Not Started
-
-Notes:
-
-## Task Title: Improve Content Pages
-
-User Story: As a user, I want to be able to find informative content about the courses and programs offered by MyWebClass
-Description: The task involves improving the content pages on the website to make them more informative and engaging. The task includes conducting research to identify the types of content users are interested in, creating new content or improving existing content, and testing the content pages to ensure that they meet user needs.
-
-
-Assigned To: Web Developer
-Priority: High
-
-Status: In Progress
-
-Notes:
-
-## Task Title: Redesign Content Navigation
-
-User Story: As a user, I want to be able to easily navigate to different types of content on the website
-
-Description: The task involves redesigning the website's content navigation to make it more user-friendly and intuitive. The task includes conducting user research to identify areas for improvement, designing and implementing the new navigation menu, and testing the new menu to ensure that it meets user needs.
-
-Assigned To: Web Developer
-
-Priority: High
-
-Status: Not Started
-
-Notes: 
-
 
