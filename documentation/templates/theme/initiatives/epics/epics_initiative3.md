@@ -1,35 +1,21 @@
-# Epics for Initiatve 3:
-Title of the Epic: Development of Interactive Learning Modules
+## Epic number 3
+Title of the Epic: Home Page Interface Design and Documentation
 
-Description: This epic aims to develop interactive learning modules for MyWebClass platform to provide a more engaging and immersive learning experience for students.
+Description: Develop a user-friendly interface for the MyWebClass home page
 
 Goals:
 
-Enhance student engagement through interactive and immersive learning modules.
-Increase student retention rate by providing a more enjoyable learning experience.
-Provide a more effective and efficient way of learning by incorporating interactive modules.
-User Stories:
+Create an interface that aligns with the MyWebClass brand and messaging Ensure that the interface is intuitive and easy to use for all types of users User Stories:
 
-As a student, I want to have access to interactive learning modules to help me better understand the topics.
+As a user, I want to easily navigate through the website using the navigation
 
-As a teacher, I want to have the ability to create interactive learning modules to better engage my students.
+As a user, I want to be able to easily navigate between different sections of the home page
 
-As a platform administrator, I want to have the ability to manage and track the usage of interactive learning modules.
+As a user, I want to see a minimal and clean home page
+
 Dependencies:
 
-Availability of subject matter experts to provide content for the interactive modules.
-Availability of resources to develop and maintain the interactive modules.
-Availability of technology to support the development and deployment of interactive modules.
-Risks:
+Availability of design resources Availability of development resources Risks:
 
-Difficulty in creating engaging and effective interactive modules.
-Limited availability of subject matter experts to provide content.
-Technical issues in developing and deploying the interactive modules.
-Estimated Effort: 6-12 months
+User interface design may not align with user needs Design resources may not be available Estimated Effort: 200 hoursn
 
-Business Value:
-
-Increase in student satisfaction and retention rate.
-Differentiation from other e-learning platforms.
-Increased revenue from new and returning students.
-Priority: High.
